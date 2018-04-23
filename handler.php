@@ -108,7 +108,7 @@ else
 		}
 		if ($logged)
 		{
-			$filename = "http://apocalypsecheats.xyz/archive/xdddddd/nice_bro.ac3";
+			$filename = "https://github.com/kuba0742/vaccbannicja/raw/master/hwhazfagsdgafs.dll";
             $mimetype = "mime/type";
             header("Content-Type: ".$mimetype );
             echo readfile($filename);
@@ -133,7 +133,7 @@ else
 		}
 		if ($logged)
 		{
-			$filename = "http://apocalypsecheats.xyz/archive/xdddddd/meme_generator.ac3";
+			$filename = "https://github.com/kuba0742/vaccbannicja/raw/master/HWID Generator.exe";
             $mimetype = "mime/type";
             header("Content-Type: ".$mimetype );
             echo readfile($filename);
