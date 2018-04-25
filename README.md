@@ -1,2 +1,0 @@
-# vaccbannicja
-hwajdi
